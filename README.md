@@ -9,5 +9,5 @@ A python program to fetch subscriptions from mail, pull the swappa listings (new
   3. [Google Viz](https://developers.google.com/chart/interactive/docs/reference) - To draw visualization for the web (WIP)
  
  
- ### End Result
- 
+ ### End Result 
+ Data Scraped as of Jan 10 2020 with 3000 listings (records)

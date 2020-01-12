@@ -1,6 +1,8 @@
-# Swappa Scraper
-A python program to fetch subscriptions from mail, pull the swappa listings (new and old), scrape them and do perform exploratory data analysis
+# Swappa Scraper (After-market Price Tracker)
+A python program to fetch subscriptions from mail, pull the swappa listings (new and old), scrape them and do perform exploratory data analysis.
 
+## What it helps with?
+The after-market data can be used to understand the selling distribution and market trends before making a purchase
 
 ### Tools & Libraries Used
   1. [Python GMAIL API](https://developers.google.com/gmail/api/quickstart/python) - To read mails from GMAIL and fetch the listings for swappa
@@ -9,17 +11,17 @@ A python program to fetch subscriptions from mail, pull the swappa listings (new
   3. [Google Viz](https://developers.google.com/chart/interactive/docs/reference) - To draw visualization for the web (WIP)
  
  
- ### End Result 
+### End Result 
  Data Info - 3000 listings (records)
  
-#### Which phone sells the most? (With median price sold in comparison to the prices not sold)
+### Which phone sells the most? (With median price sold in comparison to the prices not sold)
 
 <img src="https://i.imgur.com/unH5iyg.png">
 
 
-#### Selling distribution of iPhone X (Sold vs Unsold)
+### Selling distribution of iPhone X (Sold vs Unsold)
 <img src="https://i.imgur.com/gCOjvB9.png">
 
 
-#### Where are most sellers from?
+### Where are most sellers from?
 <img src="https://i.imgur.com/8fOMIK0.png">

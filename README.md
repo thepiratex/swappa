@@ -22,4 +22,4 @@ A python program to fetch subscriptions from mail, pull the swappa listings (new
 
 
 #### Where are most sellers from?
-<img src="https://i.imgur.com/8fOMIK0.png" height="500">
+<img src="https://i.imgur.com/8fOMIK0.png">

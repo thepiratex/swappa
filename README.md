@@ -28,5 +28,7 @@ The after-market data can be used to understand the selling distribution and mar
 
 ---
 ### Where are most sellers from?
+
 <img src="https://i.imgur.com/8fOMIK0.png">
+
 > New Jersey and Texas has the most sellers

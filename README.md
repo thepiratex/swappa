@@ -14,4 +14,13 @@ A python program to fetch subscriptions from mail, pull the swappa listings (new
  
 #### Which phone sells the most? (With median price sold in comparison to the prices not sold)
 
-<img src="https://i.imgur.com/KHlfvs0.png">
+<img src="https://i.imgur.com/unH5iyg.png">
+
+
+#### Selling distribution of iPhone X (Sold vs Unsold)
+<img src="https://i.imgur.com/gCOjvB9.png">
+
+
+#### Where are most sellers from?
+<img src="https://i.imgur.com/8fOMIK0.png">
+

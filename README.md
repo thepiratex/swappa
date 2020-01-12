@@ -1,4 +1,4 @@
-# Swappa Scraper (After-market Price Tracker)
+# Swappa Scraper (After-market Price Tracker for smartphones)
 A python program to fetch subscriptions from mail, pull the swappa listings (new and old), scrape them and do perform exploratory data analysis.
 
 ## What it helps with?

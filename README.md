@@ -32,3 +32,10 @@ The after-market data can be used to understand the selling distribution and mar
 <img src="https://i.imgur.com/8fOMIK0.png">
 
 > New Jersey and Texas has the most sellers
+
+
+### Code
+In folder v1, run the scripts in below order
+1. mail.py (Uses GMAIL API). If you have data skip this file
+2. s1.py (You need to have scrapy for this)
+3. merge.py 

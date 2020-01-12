@@ -10,4 +10,8 @@ A python program to fetch subscriptions from mail, pull the swappa listings (new
  
  
  ### End Result 
- Data Scraped as of Jan 10 2020 with 3000 listings (records)
+ Data Info - 3000 listings (records)
+ 
+#### Which phone sells the most? (With median price sold in comparison to the prices not sold)
+
+<img src="https://i.imgur.com/KHlfvs0.png" width="500">

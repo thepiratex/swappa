@@ -18,10 +18,12 @@ The after-market data can be used to understand the selling distribution and mar
 
 <img src="https://i.imgur.com/unH5iyg.png">
 
+> iPhone 8 has 319 listings out of 3000 total. (Roughly 10% of total phones)
 
 ### Selling distribution of iPhone X (Sold vs Unsold)
 <img src="https://i.imgur.com/gCOjvB9.png">
-
+> For iPhone X, 400-470 price bin contains most of the phone which are listed as well as sold. One can see that prices above $570 are not being sold.
 
 ### Where are most sellers from?
 <img src="https://i.imgur.com/8fOMIK0.png">
+> New Jersey and Texas has the most sellers
